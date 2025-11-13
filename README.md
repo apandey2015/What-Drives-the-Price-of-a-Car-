@@ -10,6 +10,9 @@ With your (almost?) final dataset in hand, it is now time to build some models. 
 # Evaluation
 With some modeling accomplished, we aim to reflect on what we identify as a high-quality model and what we are able to learn from this. We should review our business objective and explore how well we can provide meaningful insight into drivers of used car prices. Your goal now is to distill your findings and determine whether the earlier phases need revisitation and adjustment or if you have information of value to bring back to your client.
 
+<img width="599" height="545" alt="image" src="https://github.com/user-attachments/assets/d3987daf-5441-4659-8356-1ce22ac3c306" />
+
+
 # Deployment
 Summary of Findings
 Newer model years command higher prices, confirming clear depreciation with age.
